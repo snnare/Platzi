@@ -6,3 +6,11 @@ juego Genshin Impact y muchas veces me pongo a estudiar
 asi que veremos que tal esta este curso de GitHUB
 
 Ahora ya hay mas cambios 
+
+
+git show  
+    Muestra los cambios de los archivos 
+
+git log nombre_archivo
+    Muestra todos los cambios que se le han hecho al archivo que se le dice.
+
