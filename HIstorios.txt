@@ -14,6 +14,9 @@ git show
 git log nombre_archivo
     Muestra todos los cambios que se le han hecho al archivo que se le dice.
 
+git remove --cached
+
+los mensajes son una buena practica
 
 
 pwd: Nos muestra la ruta de carpetas en la que te encuentras ahora mismo.
