@@ -8,6 +8,11 @@ asi que veremos que tal esta este curso de GitHUB
 Ahora ya hay mas cambios 
 
 
+
+git fetch // trae cambios pero no hace un merge
+git merge// une los cambios del servidor con tus cambios en loca
+
+
 git show  
     Muestra los cambios de los archivos 
 
